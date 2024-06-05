@@ -1,4 +1,4 @@
 ﻿# DuplicateTextChecker
 
-This code is used to detect duplicated text in a given string
+This code is used to detect duplicated text in a given string by seperating each the string into a serie of words using qutoes ("")
 
